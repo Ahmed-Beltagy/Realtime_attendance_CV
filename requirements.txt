@@ -1,0 +1,5 @@
+streamlit==1.4.0
+streamlit_option_menu==0.1.2
+numpy==1.22.0
+opencv-python==4.5.5.62
+Pillow==9.0.0
